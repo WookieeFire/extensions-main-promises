@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\MangaFire",
+    "\\src\\MangaFire\\includes"
+  ],
+  "SelectedNode": "\\src\\MangaFire\\MangaFire.ts",
+  "PreviewInSolutionExplorer": false
+}
